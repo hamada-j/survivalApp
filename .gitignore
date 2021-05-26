@@ -170,3 +170,7 @@ temp/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,macos
+
+
+#Ignore config Keys and secrets in
+config.js
