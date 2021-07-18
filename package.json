@@ -1,0 +1,32 @@
+{
+  "name": "survivalapp",
+  "version": "1.0.0",
+  "description": "Resultados de traducción find out in real-time about the disasters that happen in the world",
+  "main": "equakes-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamada-j/survivalApp.git"
+  },
+  "author": "Hamada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamada-j/survivalApp/issues"
+  },
+  "homepage": "https://github.com/hamada-j/survivalApp#readme",
+  "dependencies": {
+    "@tomtom-international/web-sdk-maps": "^6.13.0",
+    "@tomtom-international/web-sdk-services": "^6.13.0",
+    "axios": "^0.21.1",
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^9.1.1",
+    "terminal-image": "^2.0.0",
+    "vorpal": "^1.12.0"
+  },
+  "devDependencies": {
+    "html2canvas": "*"
+  }
+}
