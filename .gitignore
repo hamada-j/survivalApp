@@ -174,3 +174,5 @@ temp/
 
 #Ignore config Keys and secrets in
 config.js
+
+test.js
